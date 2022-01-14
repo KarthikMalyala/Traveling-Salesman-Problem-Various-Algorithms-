@@ -158,7 +158,7 @@ def totalDistance(visitedEdges):
 
 if __name__ == '__main__':
     # Assigns the specified file to a variable
-    file = r"C:\Fall 2021\CSE 545\Project 3\Random40.tsp"
+    file = r"Random40.tsp"
     coordinates = {}  # Stores the cities and their corresponding coordinates in a dictionary
 
     # Opens the file and reads line-by-line after 'NODE_COORD_SECTION' to get coordinates for each city
